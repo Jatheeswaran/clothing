@@ -1,7 +1,7 @@
 {
-  "name": "jd-fashions",
+  "name": "jd-fashions-premium",
   "version": "1.0.0",
-  "description": "JD Fashions - Premium Clothing Store",
+  "description": "Premium Fashion E-commerce Store",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
